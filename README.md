@@ -8,8 +8,6 @@
 
 **It's available at:**  https://aurum-golden-gateway.lovable.app
 
-**Also at:** https://main.d1ed3qo7escfq6.amplifyapp.com/
-
 ## How to edit this code?
 
 There are several ways of editing your application.
